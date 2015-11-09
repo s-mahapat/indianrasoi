@@ -26,7 +26,7 @@ h2 {font-size:38px;line-height:1.2em;color:#200000;padding:16px 0 12px 0;letter-
 h2.letter_spacing {letter-spacing:-3px}
 h3 {font-size:27px;color:#230000;line-height:1.2em;padding:20px 0 9px 0;letter-spacing:-1px}
 h3 span {color:#a80002}
-p {padding-bottom:24px}
+p {padding-bottom:24px;word-wrap:break-word;}
 /* header */
 header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 #logo {display:block;}
